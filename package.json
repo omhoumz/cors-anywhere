@@ -28,7 +28,7 @@
     "server.js"
   ],
   "dependencies": {
-    "http-proxy": "1.17.0",
+    "http-proxy": "1.18.1",
     "proxy-from-env": "1.0.0"
   },
   "devDependencies": {
